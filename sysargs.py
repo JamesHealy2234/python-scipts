@@ -5,3 +5,4 @@ print("this script has the name " ,  "",
 print ("the numer of arguments is ", 
        (len(sys.argv)))
 print ("the Arguments are ", argument_list)
+dwadwada
