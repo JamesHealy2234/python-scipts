@@ -1,0 +1,7 @@
+-- Used try and except blocks to handle exceptions
+
+--Explored diffrenrt types of exceptions in python 
+
+--executed code from the python shell 
+
+--handled command-line arguments to python scripts 
